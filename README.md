@@ -1,4 +1,7 @@
 # FMS AirManager instrument for the Cessna CJ4 in MSFS 2024
-** Work IN PROGRESS
+** Work IN PROGRESS **
 
 FMS instrument for AirManager of the Cessna CJ4 in MSFS 2024.
+
+ To Do:
+- Day/Night texture change
